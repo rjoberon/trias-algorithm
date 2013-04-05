@@ -28,7 +28,7 @@ You can find the compiled JAR file in the `target` folder.
 running/developing
 ------------------
 
-Have a look at the wiki pages on [usage](wiki/Usage) and [implementation](wiki/Implementation).
+Have a look at the wiki pages on [usage](https://github.com/rjoberon/trias-algorithm/wiki/Usage) and [implementation](https://github.com/rjoberon/trias-algorithm/wiki/Implementation).
 
 licensing 
 --------- 
