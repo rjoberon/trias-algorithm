@@ -10,7 +10,7 @@
 		Trias is an algorithm for computing triadic concepts which
 		fulfill minimal support constraints.
 	</description>
-	<url>https://gforge.cs.uni-kassel.de/projects/trias/</url>
+	<url>https://github.com/rjoberon/trias-algorithm</url>
 	<organization>
 		<name>Knowledge and Data Engineering Group</name>
 		<url>http://www.kde.cs.uni-kassel.de/</url>
@@ -18,8 +18,8 @@
 	<inceptionYear>2006</inceptionYear>
 
 	<issueManagement>
-		<system>GForge</system>
-		<url>https://gforge.cs.uni-kassel.de/tracker/?group_id=145</url>
+		<system>GitHub</system>
+		<url>https://github.com/rjoberon/trias-algorithm/issues</url>
 	</issueManagement>
 
 	<developers>
